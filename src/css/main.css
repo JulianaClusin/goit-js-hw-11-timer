@@ -64,11 +64,11 @@ body {
   }
 }
 
-@media screen and (min-width: 1200px) {
+/* @media screen and (min-width: 1200px) {
   .field:not(:last-child) {
     margin-right: 80px;
   }
-}
+} */
 
 .value {
     display: inline-block;
@@ -76,7 +76,7 @@ body {
     background: #603e86;
     color: #ffffff;
     line-height: 70px;
-    width: 80px;
+    width: 150px;
     margin: 0 1px;
     border-radius: 8px;
 }
@@ -104,8 +104,8 @@ body {
 .timer_delimetr {
     display: inline-block;
     vertical-align: top;
-    font-size: 50px;
-    line-height: 95px;
+    font-size: 100px;
+    line-height: 130px;
     margin: 0 5px;
 }
 
